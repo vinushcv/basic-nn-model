@@ -46,7 +46,7 @@ Plot the performance plot
 Evaluate the model with the testing data.
 
 ## PROGRAM
-developed by: Vinush.cv
+Developed by: Vinush.cv
 
 Reg no: 212222230176
 
